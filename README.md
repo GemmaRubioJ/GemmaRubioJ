@@ -1,4 +1,4 @@
-## <div align="center">Soy Gemma Rubio J aka Makalae ✨ style="width:20px"/></div>
+## <div align="center">Soy Gemma Rubio aka Makalae ✨ /></div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -14,10 +14,10 @@
 - 🌱 Estoy aprendiendo ASP.NET CORE y Python 🐍
 
 
-- ❓ You can Email Me Through [Here](mailto:gemi.816@gmail.com)
+- ❓ Me puedes contactar [Here](mailto:gemi.816@gmail.com)
 
 
-- ⚡ Fun fact: Tengo 2 gatos 🐈 y 2 ratas 🐁 como mascotas/>
+- ⚡ Fun fact: Tengo 2 gatos 🐈 y 2 ratas 🐁 como mascotas 
 
 
 <br/>  
@@ -82,8 +82,9 @@
 <br/> 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemmaRubioJ&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>  
 <br/>  
 
 <div align="center">
@@ -92,6 +93,6 @@
   
 
 <br/>  
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gemarj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br />
