@@ -1,4 +1,4 @@
-## <div align="center">Soy Gemma Rubio aka Makalae ✨ /></div>
+## <div align="center"> ✨ Gemma Rubio aka Makalae ✨ </div>
 
 <br>
 <div style ="display:flex;" align="center">
@@ -6,12 +6,13 @@
 </div>
 
 ### <div align="center">Desarrollo de Aplicaciones Multiplataforma</div>
+<br/> 
 
 
 - 🔭 Acualmente soy trainee en una consultora TI
 
 
-- 🌱 Estoy aprendiendo ASP.NET CORE y Python 🐍
+- 🌱 Estoy aprendiendo ASP.NET CORE y Python para DataScience 🐍
 
 
 - ❓ Me puedes contactar [Here](mailto:gemi.816@gmail.com)
